@@ -1,0 +1,1 @@
+git: bir versiyon kontrol aracıdır. Github ile bağlantılı çalışır
