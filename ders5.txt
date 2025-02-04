@@ -1,9 +1,1 @@
 public class RandomNumber {
-    public static void main(String[] args) {
-        // Rastgele bir sayı üret
-        int randomNumber = (int)(Math.random() * 100);
-        
-        // Sonuçları yazdır
-        System.out.println("Rastgele Sayı: " + randomNumber);
-    }
-}
