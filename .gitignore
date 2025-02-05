@@ -1,0 +1,18 @@
+# Derleme dosyalarını ignore edelim. Bunlar derleme sırasında otomatik olarak oluşturulan dosyalar.
+bin/
+obj/
+
+# IDE dosyalarını ignore edelim. VS code ve intellij idea
+.vscode/
+.idea/ 
+
+# Sistem dosyaları. ilki (MacOS) ikincisi (Windows)
+DS_Store 
+Thumbs.dbs 
+
+# Gizli dosyaları takip etmeyelim. Uygulama ayarları, API anahtarları veya veritabanı bağlantılar.
+.env
+config.json
+
+# Bonus dosya
+ders13.txt
