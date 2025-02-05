@@ -14,5 +14,9 @@ Thumbs.dbs
 .env
 config.json
 
-# Bonus dosya
+# Dosya gizlemek için
 bana_ozel.md
+
+# Klasör gizlemek için
+html_dosyalari/
+
